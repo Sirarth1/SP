@@ -22,35 +22,35 @@
             <img src="img/documento.png">
             <h4>Documentacion de Equipos</h4>
             <p>Corresponde al area de visualizacion de documentos generados por los Equipos</p>
-            <a href="index.html">INGRESAR</a>
+            <a href="index.php">INGRESAR</a>
         </div>
 
         <div class="card">
             <img src="img/Registro.jpg">
             <h4>Area de registro de equipos de computo</h4>
             <p>Corresponde al area donde se rregistraran todos aquellos equipos existentes o entrantes.</p>
-            <a href="alta_equipo.html">INGRESAR</a>
+            <a href="alta_equipo.php">INGRESAR</a>
         </div>
 
         <div class="card">
             <img src="img/solicitud.jpg">
             <h4>Solicitud reportes</h4>
             <p>Area de solicitudes de mantenimiento/reparacion de equipos.</p>
-            <a href="alta_reporte.html">INGRESAR</a>
+            <a href="alta_reporte.php">INGRESAR</a>
         </div>
 
         <div class="card">
             <img src="img/cargando.jpg">
             <h4>Estado de reportes</h4>
             <p>Correspondencia al area de visualizacion del estado de dichos equipos reportados.</p>
-            <a href="estado_reporte.html">INGRESAR</a>
+            <a href="estado_reporte.php">INGRESAR</a>
         </div>
         
         <div class="card">
             <img src="img/acceso.jpg">
             <h4>Accesos</h4>
             <p>Area de registro de usuarios</p>
-            <a href="accesos.html">INGRESAR</a>
+            <a href="accesos.php">INGRESAR</a>
         </div>
 
         

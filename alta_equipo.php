@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+php<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -28,12 +28,12 @@
                     </div>
                     <div class="collapse navbar-collapse" id="menu">
                         <ul class="nav navbar-nav navbar-right">
-                            <li><a href="index.html">Inicio</a></li>
-                            <li class="active"><a href="alta_equipo.html">Alta de equipos</a> </li>
-                            <li><a href="alta_reporte.html">Alta de Reportes</a></li>
-                            <li><a href="estado_reporte.html">Estado de reportes</a></li>
+                            <li><a href="index.php">Inicio</a></li>
+                            <li class="active"><a href="alta_equipo.php">Alta de equipos</a> </li>
+                            <li><a href="alta_reporte.php">Alta de Reportes</a></li>
+                            <li><a href="estado_reporte.php">Estado de reportes</a></li>
                             <li><a href="accesos.html">Accesos  </a ></li> 
-                            <li><a href="inicio.html" class="navbar-brand">Menu Principal</a></li>
+                            <li><a href="inicio.php" class="navbar-brand">Menu Principal</a></li>
                         </ul>
                     </div>
                 </div>

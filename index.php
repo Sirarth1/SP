@@ -30,12 +30,12 @@
                     </div>
                     <div class="collapse navbar-collapse" id="menu">
                         <ul class="nav navbar-nav navbar-right">
-                            <li class="active"><a href="index.html">Inicio</a></li>
-                            <li><a href="alta_equipo.html">Alta de equipos</a> </li>
-                            <li><a href="alta_reporte.html">Alta de Reportes</a></li>
-                            <li><a href="estado_reporte.html">Estado de reportes</a></li>
-                            <li><a href="accesos.html">Accesos  </a ></li> 
-                            <li><a href="inicio.html" class="navbar-brand">Menu Principal</a></li>
+                            <li class="active"><a href="index.php">Inicio</a></li>
+                            <li><a href="alta_equipo.php">Alta de equipos</a> </li>
+                            <li><a href="alta_reporte.php">Alta de Reportes</a></li>
+                            <li><a href="estado_reporte.php">Estado de reportes</a></li>
+                            <li><a href="accesos.php">Accesos  </a ></li> 
+                            <li><a href="inicio.php" class="navbar-brand">Menu Principal</a></li>
                         </ul>
                     </div>
                 </div>
@@ -206,7 +206,9 @@
         <div class="container">
             <div class="row">
                 
-              
+          
+                            <img src="https://www.atencionciudadana.cdmx.gob.mx/src/img/logo.svg" width="auto" height="30px">
+                          
                     <p>Sistema de Atencion Ciudadana de Alumbrado Publico <br>
                         Diseñado y Operado por Area de Desarrollo y Control de Sistemas de la Informacion</p>
                 
